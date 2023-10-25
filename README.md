@@ -13,3 +13,27 @@ DEMO ATTACK ON THE VIRTUAL MACHINE!
 
 NEW ENTRY IN THE POWERSHELL WITH THE LIVE LOCATION AND THE TIME OF ATTACKING
 ![6bcb97ef-f042-4d9b-bdc9-e8ec9802c377](https://github.com/ShrikantBhagwanMeher/project/assets/145743330/254066d3-5069-4ee4-a7ef-626723f332a6)
+
+CREATING A CUSTOM LOG 
+![3](https://github.com/ShrikantBhagwanMeher/project/assets/145743330/8c12b084-504e-41c6-a2ff-834d71c2d9f9)
+
+GIVING THE PATH OF FAILED RDP FILE IN THE CUSTOME LOG
+![4](https://github.com/ShrikantBhagwanMeher/project/assets/145743330/bdfd196c-510f-457e-a706-e069b4f5f83e)
+
+GIVEN THE CUSTOM LOG A NAME
+![5](https://github.com/ShrikantBhagwanMeher/project/assets/145743330/502dba2f-8b51-4a4c-ac41-a60fa6f36966)
+
+It will show the log file named FAILED RDP WITH GEO CL (CL stands for custom logs)
+![6](https://github.com/ShrikantBhagwanMeher/project/assets/145743330/b5bef4be-4179-4cef-ba0f-e4556600e6ff)
+
+COPY THE FILE AS USE IT AS A QUERY IN BARD AS IT WONT RUN AZURE DUE TO RESTRICTION ON STUDENT SUBSCRUBTION
+![1](https://github.com/ShrikantBhagwanMeher/project/assets/145743330/3b402398-32e8-47c4-b06f-6dbfefe79951)
+
+Bard will take the file name as a query and show the live location of the attackers.
+![6](https://github.com/ShrikantBhagwanMeher/project/assets/145743330/efbd574a-ea5b-4f93-80b8-ac75473b8973)
+![5](https://github.com/ShrikantBhagwanMeher/project/assets/145743330/6a771287-3eb5-4b13-8623-c7176282c5ac)
+![4](https://github.com/ShrikantBhagwanMeher/project/assets/145743330/a4869a74-d58a-4f35-8527-85081e17731e)
+![3](https://github.com/ShrikantBhagwanMeher/project/assets/145743330/7f497cd2-03d6-4e93-9dd6-599ef98aa6b5)
+![2](https://github.com/ShrikantBhagwanMeher/project/assets/145743330/a9b6f08d-3fd9-4082-a7cb-846d5917723e)
+
+
