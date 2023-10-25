@@ -10,3 +10,6 @@ Entering the geo pin
 
 DEMO ATTACK ON THE VIRTUAL MACHINE!
 [e6fdb357-f0c1-4816-bd17-0a715b25fdd1](https://github.com/ShrikantBhagwanMeher/project/assets/145743330/5ecb0893-3a0e-454b-a510-8d0965a2ce99)
+
+NEW ENTRY IN THE POWERSHELL WITH THE LIVE LOCATION AND THE TIME OF ATTACKING
+![6bcb97ef-f042-4d9b-bdc9-e8ec9802c377](https://github.com/ShrikantBhagwanMeher/project/assets/145743330/254066d3-5069-4ee4-a7ef-626723f332a6)
